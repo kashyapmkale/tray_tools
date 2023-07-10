@@ -8,7 +8,7 @@ items_url = "https://stage-api.dine.tray.com/v1/items"
 
 headers = {
     "accept": "application/json",
-    "Authorization": "Basic QXBpLUtleTpFN2x6QW5RR0NMV3IybkJQZmxmNU1uRWdxM3lxTHVQTw=="
+    "Authorization": ""
 }
 
 #Change the date and the siteId as per your requirement
